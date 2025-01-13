@@ -1,1 +1,1 @@
-This is netflix clone i learned from code with harry
+This is Spotify clone i learned from code with harry
