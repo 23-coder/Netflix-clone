@@ -1,1 +1,1 @@
-This is Netflix clone i learned from code with harry
+This is Netflix clone using Html and CSS only I learned from code with harry.
